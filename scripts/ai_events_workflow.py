@@ -67,7 +67,7 @@ def main() -> int:
     now = datetime.now(timezone.utc)
 
     if not args.force and not should_run(now):
-        print("Skipping: fewer than 3 days since last successful run.")
+        print("Skipping: fewer than 1 day since last successful run.")
         return 0
 
     config = load_yaml(CONFIG_PATH)
@@ -112,7 +112,7 @@ def main() -> int:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true", help="Collect only; do not email, update Sheets, or write history.")
-    parser.add_argument("--force", action="store_true", help="Ignore the 3-day run gate.")
+    parser.add_argument("--force", action="store_true", help="Ignore the 1-day run gate.")
     return parser.parse_args()
 
 
@@ -125,7 +125,7 @@ def should_run(now: datetime) -> bool:
         last = ensure_aware(date_parser.parse(last_run))
     except (ValueError, TypeError):
         return True
-    return (now - last).days >= 3
+    return (now - last).days >= 1
 
 
 def discover_events(config: dict[str, Any], now: datetime) -> list[Event]:
