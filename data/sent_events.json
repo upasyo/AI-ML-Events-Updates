@@ -1,4 +1,20 @@
 {
-  "sent": []
+  "sent": [
+    {
+      "date": "2026-06-17T00:00:00+00:00",
+      "id": "362b4e0164008b4fd64877b5643295c2cf046233ccfb4a4d97bf9e545fc8027c",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/314976448/",
+      "sent_at": "2026-06-16T11:55:55.913376+00:00",
+      "source": "Meetup",
+      "title": "Data and Privacy in the Age of AI | Virtual Workshop Series"
+    },
+    {
+      "date": "2026-06-19T00:00:00+00:00",
+      "id": "913d76568c48466779a2986199a5bbb5efa2464f8c198c19c03000b0dfbe3ecf",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/314976458/",
+      "sent_at": "2026-06-16T11:55:55.913376+00:00",
+      "source": "Meetup",
+      "title": "AI Policy and Governance Overview | Virtual Workshop Series"
+    }
+  ]
 }
-
