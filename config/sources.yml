@@ -1,0 +1,58 @@
+search_terms:
+  - artificial intelligence event free online
+  - machine learning webinar free online
+  - generative AI workshop free online
+  - data science AI meetup virtual free
+
+sources:
+  - name: Eventbrite
+    domains:
+      - eventbrite.com
+    seed_urls:
+      - https://www.eventbrite.com/d/online/free--events/artificial-intelligence/
+      - https://www.eventbrite.com/d/online/free--events/machine-learning/
+
+  - name: Meetup
+    domains:
+      - meetup.com
+    seed_urls:
+      - https://www.meetup.com/find/?keywords=artificial%20intelligence&eventType=online
+      - https://www.meetup.com/find/?keywords=machine%20learning&eventType=online
+
+  - name: Devpost
+    domains:
+      - devpost.com
+    seed_urls:
+      - https://devpost.com/hackathons?search=artificial%20intelligence&challenge_type=online
+      - https://devpost.com/hackathons?search=machine%20learning&challenge_type=online
+
+  - name: Sessionize
+    domains:
+      - sessionize.com
+    seed_urls:
+      - https://sessionize.com/search/?q=artificial%20intelligence
+      - https://sessionize.com/search/?q=machine%20learning
+
+  - name: AI Conference Calendars
+    domains:
+      - aiconference.com
+      - ai-events.org
+      - ai.google
+      - deeplearning.ai
+    seed_urls:
+      - https://www.deeplearning.ai/events/
+      - https://ai.google/events/
+
+  - name: University Event Pages
+    domains:
+      - stanford.edu
+      - mit.edu
+      - berkeley.edu
+      - cmu.edu
+      - harvard.edu
+    seed_urls:
+      - https://hai.stanford.edu/events
+      - https://www.csail.mit.edu/events
+      - https://bair.berkeley.edu/events.html
+      - https://www.ml.cmu.edu/news/events.html
+
