@@ -15,6 +15,22 @@
       "sent_at": "2026-06-16T11:55:55.913376+00:00",
       "source": "Meetup",
       "title": "AI Policy and Governance Overview | Virtual Workshop Series"
+    },
+    {
+      "date": "2026-06-19T00:00:00+00:00",
+      "id": "28e27b599cecd333fcfaa276e9b29d1fec61db37a110f34baec60b075d1021f9",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-chicago/events/315046810/",
+      "sent_at": "2026-06-17T12:58:56.151698+00:00",
+      "source": "Meetup",
+      "title": "AI Policy and Governance Overview | Virtual Workshop Series"
+    },
+    {
+      "date": "2026-06-25T20:00:00+00:00",
+      "id": "5b33dc1243b3fd0cb89ba631a9eb6275f1b2cc9ab66d996470ed49cdd8eca530",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-chicago-il/events/315265744/",
+      "sent_at": "2026-06-17T12:58:56.151698+00:00",
+      "source": "Meetup",
+      "title": "From AI Overwhelm to AI Clarity: A Practical Masterclass for Leaders"
     }
   ]
 }
