@@ -39,6 +39,14 @@
       "sent_at": "2026-06-19T12:54:58.010547+00:00",
       "source": "Meetup",
       "title": "One More Chance"
+    },
+    {
+      "date": "2026-06-25T01:00:00+00:00",
+      "id": "fed6ee8bbdc81295798512d729de5c25cd4928fd5fdb6c8b3330a5de3a8f95be",
+      "registration_url": "https://www.meetup.com/hackerdojo/events/315012856/",
+      "sent_at": "2026-06-21T11:58:00.084484+00:00",
+      "source": "Meetup",
+      "title": "Wiki3: Own Your Own AI Workshop"
     }
   ]
 }
