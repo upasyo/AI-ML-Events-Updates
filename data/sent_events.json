@@ -47,6 +47,30 @@
       "sent_at": "2026-06-21T11:58:00.084484+00:00",
       "source": "Meetup",
       "title": "Wiki3: Own Your Own AI Workshop"
+    },
+    {
+      "date": "2026-06-25T20:00:00+00:00",
+      "id": "c1b77911e5f572186c84e14a7dea0bc70f8e6bfa2ad99facbf7dbdef6dd6df73",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-washington-dc/events/315265761/",
+      "sent_at": "2026-06-24T12:03:03.748330+00:00",
+      "source": "Meetup",
+      "title": "From AI Overwhelm to AI Clarity: A Practical Masterclass for Leaders"
+    },
+    {
+      "date": "2026-07-02T20:00:00+00:00",
+      "id": "2d60cfaffb838867efdbf5e841d51a03fdc4de3424a32618f2de74f3a35b0994",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-washington-dc/events/315378049/",
+      "sent_at": "2026-06-24T12:03:03.748330+00:00",
+      "source": "Meetup",
+      "title": "Cutting Through the Noise: A Practical AI Roadmap for Leaders"
+    },
+    {
+      "date": "2026-07-08T15:00:00+00:00",
+      "id": "a7ef1588617f789e9257e68c380528d080cb7411b7e7b76ca024e7797511faa2",
+      "registration_url": "https://www.meetup.com/ac-iad/events/315314585/",
+      "sent_at": "2026-06-24T12:03:03.748330+00:00",
+      "source": "Meetup",
+      "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
     }
   ]
 }
