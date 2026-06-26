@@ -71,6 +71,38 @@
       "sent_at": "2026-06-24T12:03:03.748330+00:00",
       "source": "Meetup",
       "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-06-30T20:00:00+00:00",
+      "id": "df07f91c54c82f3ce7750a93f7ddf484ce57c9fa6446e32327a39c79949cc041",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/314601155/",
+      "sent_at": "2026-06-26T11:56:27.537433+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Agentic Architectural Patterns for Building Multi-Agent Systems"
+    },
+    {
+      "date": "2026-07-07T18:30:00+00:00",
+      "id": "c637fe97016bf341f1412b3ae9a58041d236f992020843636d14f3b3b8f77ec1",
+      "registration_url": "https://www.meetup.com/ai-professionals-silicon-valley/events/315089028/",
+      "sent_at": "2026-06-26T11:56:27.537433+00:00",
+      "source": "Meetup",
+      "title": "Networking for AI Professionals around the world - July 7"
+    },
+    {
+      "date": "2026-07-09T01:00:00+00:00",
+      "id": "de6b297aadb2ac25c5f0f7f5268e28835e3f4d051f63adafd7ace66070b2c886",
+      "registration_url": "https://www.meetup.com/hackerdojo/events/315093792/",
+      "sent_at": "2026-06-26T11:56:27.537433+00:00",
+      "source": "Meetup",
+      "title": "Wiki3: Own Your Own AI Workshop"
+    },
+    {
+      "date": "2026-07-28T20:00:00+00:00",
+      "id": "d41ee19874ee103dbf77e5fadb98161a5b7f539981f08153c7a893baed3c7bc4",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/314605436/",
+      "sent_at": "2026-06-26T11:56:27.537433+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: RAG with Python Cookbook"
     }
   ]
 }
