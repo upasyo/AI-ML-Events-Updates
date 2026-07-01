@@ -135,6 +135,38 @@
       "sent_at": "2026-06-29T13:17:24.254426+00:00",
       "source": "Meetup",
       "title": "Applied AI Conference 2026"
+    },
+    {
+      "date": "2026-07-07T22:45:00+00:00",
+      "id": "223f282b42cc14037820257bca3db9252617b66db71f264d6973d46500921b94",
+      "registration_url": "https://www.meetup.com/connections-humanist-community-washington-d-c/events/315264910/",
+      "sent_at": "2026-07-01T12:18:09.778971+00:00",
+      "source": "Meetup",
+      "title": "FTI: Does AI Help or Hurt Human Relationships?"
+    },
+    {
+      "date": "2026-07-11T14:00:00+00:00",
+      "id": "c8d80e4cb562a1b2678e47a609d856cbecdf1b84d19a689d6bcd322d52a0a7d7",
+      "registration_url": "https://www.meetup.com/washington-dc-startup-idea-to-ipo/events/315468886/",
+      "sent_at": "2026-07-01T12:18:09.778971+00:00",
+      "source": "Meetup",
+      "title": "Google AI Professional Certificate - Weekend Intensive Day 1 of 2"
+    },
+    {
+      "date": "2026-07-12T14:00:00+00:00",
+      "id": "28df0ef15fb9228529edfeca5a9c8b44c8be516e4c5d228b684f8ab5d6fcb783",
+      "registration_url": "https://www.meetup.com/washington-dc-startup-idea-to-ipo/events/315468751/",
+      "sent_at": "2026-07-01T12:18:09.778971+00:00",
+      "source": "Meetup",
+      "title": "Google AI Professional Certificate - Weekend Intensive Day 2 of 2"
+    },
+    {
+      "date": "2026-07-20T16:00:00+00:00",
+      "id": "ff2509969814d7a7d7b710c1fc66421ee217ae754416444c972e584288f65de4",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering-meetup-arlington-va/events/315485843/",
+      "sent_at": "2026-07-01T12:18:09.778971+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
     }
   ]
 }
