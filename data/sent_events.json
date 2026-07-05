@@ -167,6 +167,30 @@
       "sent_at": "2026-07-01T12:18:09.778971+00:00",
       "source": "Meetup",
       "title": "GPU, CUDA, and PyTorch Performance Optimizations"
+    },
+    {
+      "date": "2026-07-06T14:00:00+00:00",
+      "id": "e92401a381247fa002a07377191aa6739c7196864d726746f2ba2fb749094064",
+      "registration_url": "https://www.meetup.com/ai-professionals-silicon-valley/events/315403642/",
+      "sent_at": "2026-07-05T11:14:28.189380+00:00",
+      "source": "Meetup",
+      "title": "Get Google AI Certified - AI Professionals' July 2026 Cohort"
+    },
+    {
+      "date": "2026-07-20T16:00:00+00:00",
+      "id": "46872ff955f5eeccd3321374d70ac3cbf220fc35b68ce01fbf3fc335edc13916",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering/events/313234366/",
+      "sent_at": "2026-07-05T11:14:28.189380+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
+    },
+    {
+      "date": "2026-08-25T20:00:00+00:00",
+      "id": "aa900d9d3e3a8139e9713aba0f1aff3a2b7797db1a31239bc9b1bb221ff9e530",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/315505563/",
+      "sent_at": "2026-07-05T11:14:28.189380+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Build a Reasoning Model (From Scratch)"
     }
   ]
 }
