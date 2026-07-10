@@ -191,6 +191,14 @@
       "sent_at": "2026-07-05T11:14:28.189380+00:00",
       "source": "Meetup",
       "title": "AI Book Club: Build a Reasoning Model (From Scratch)"
+    },
+    {
+      "date": "2026-07-22T16:00:00+00:00",
+      "id": "bb33100614b03ef311f92c5f96901c8ecbe55e63772a980892bd318a00e26974",
+      "registration_url": "https://www.meetup.com/raleigh-ai-machine-learning-and-computer-vision-meetup/events/315399947/",
+      "sent_at": "2026-07-10T12:09:35.781061+00:00",
+      "source": "Meetup",
+      "title": "July 22 - Best of ICRA"
     }
   ]
 }
