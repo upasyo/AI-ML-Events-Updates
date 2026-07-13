@@ -231,6 +231,30 @@
       "sent_at": "2026-07-12T10:45:40.290167+00:00",
       "source": "Meetup",
       "title": "AI Clarity for Leaders: A Practical 60-Minute Masterclass"
+    },
+    {
+      "date": "2026-07-21T13:00:00+00:00",
+      "id": "0d87723fa2d379c97a923fbabab58acb1b77a73419118fb31cbd3ddefd3d43aa",
+      "registration_url": "https://www.meetup.com/d-c-data-science-odsc/events/315198762/",
+      "sent_at": "2026-07-13T12:17:53.440622+00:00",
+      "source": "Meetup",
+      "title": "Personal AI Agents \u2014 LIVE"
+    },
+    {
+      "date": "2026-07-23T20:00:00+00:00",
+      "id": "a179cafa5b5f5af118ce36e9ddeb4e2635d346b03f39c20a28d8c0c097fce939",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-washington-dc/events/315566842/",
+      "sent_at": "2026-07-13T12:17:53.440622+00:00",
+      "source": "Meetup",
+      "title": "From AI Overwhelm to AI Clarity: A Practical Masterclass for Leaders"
+    },
+    {
+      "date": "2026-07-30T20:00:00+00:00",
+      "id": "08188b83b5e105c59c10834d77e0175c7f888d3220a44af8d2dac555badbcfdb",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-washington-dc/events/315580775/",
+      "sent_at": "2026-07-13T12:17:53.440622+00:00",
+      "source": "Meetup",
+      "title": "AI Clarity for Leaders: A Practical 60-Minute Masterclass"
     }
   ]
 }
