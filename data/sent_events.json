@@ -255,6 +255,14 @@
       "sent_at": "2026-07-13T12:17:53.440622+00:00",
       "source": "Meetup",
       "title": "AI Clarity for Leaders: A Practical 60-Minute Masterclass"
+    },
+    {
+      "date": "2026-07-22T16:00:00+00:00",
+      "id": "a8a264ecb2bf91e197103fcd0d44d20c445f9ac2ab6e43ecec46aa4a052fa883",
+      "registration_url": "https://www.meetup.com/iowa-ai-ml-and-computer-vision-meetup/events/315399944/",
+      "sent_at": "2026-07-15T11:02:59.468344+00:00",
+      "source": "Meetup",
+      "title": "July 22 - Best of ICRA"
     }
   ]
 }
