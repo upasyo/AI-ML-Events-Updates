@@ -295,6 +295,46 @@
       "sent_at": "2026-07-26T10:54:39.227349+00:00",
       "source": "Meetup",
       "title": "How To Create An Easy Income With AI"
+    },
+    {
+      "date": "2026-07-27T14:00:00+00:00",
+      "id": "6cbd5e41da2f7364ff1f64501c3485c547b423b91e0b50d42649fe29d2809065",
+      "registration_url": "https://www.meetup.com/ai-professionals-chicago/events/315669031/",
+      "sent_at": "2026-07-27T12:38:23.947406+00:00",
+      "source": "Meetup",
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [4 of 7]"
+    },
+    {
+      "date": "2026-07-30T20:00:00+00:00",
+      "id": "d5fa7615160631d88d0d705a0ac76c5f64da83e484dfd752004fadbd265cc7a9",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-chicago-il/events/315580760/",
+      "sent_at": "2026-07-27T12:38:23.947406+00:00",
+      "source": "Meetup",
+      "title": "AI Clarity for Leaders: A Practical 60-Minute Masterclass"
+    },
+    {
+      "date": "2026-08-03T14:00:00+00:00",
+      "id": "f91048daf5b00253068f6fb761efb12662280bd4e1c9504093d716af7d6ea7f9",
+      "registration_url": "https://www.meetup.com/ai-professionals-chicago/events/315673127/",
+      "sent_at": "2026-07-27T12:38:23.947406+00:00",
+      "source": "Meetup",
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [5 of 7]"
+    },
+    {
+      "date": "2026-08-10T14:00:00+00:00",
+      "id": "e8991a664f7de470c467f2afe7fc089efc19fa3c60dd338dac254871824ac505",
+      "registration_url": "https://www.meetup.com/ai-professionals-chicago/events/315675810/",
+      "sent_at": "2026-07-27T12:38:23.947406+00:00",
+      "source": "Meetup",
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [6 of 7]"
+    },
+    {
+      "date": "2026-09-02T19:00:00+00:00",
+      "id": "4d6926f40ebe5c588b6bd4b543269fa2ab90cca04d6eb8cb89258380fd275b35",
+      "registration_url": "https://www.meetup.com/ai-for-solo-business-owners/events/315324807/",
+      "sent_at": "2026-07-27T12:38:23.947406+00:00",
+      "source": "Meetup",
+      "title": "Your AI Toolkit: Choose the Few Tools That Matter, Skip the Overwhelm"
     }
   ]
 }
