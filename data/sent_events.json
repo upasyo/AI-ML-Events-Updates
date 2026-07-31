@@ -359,6 +359,30 @@
       "sent_at": "2026-07-29T11:35:30.571684+00:00",
       "source": "Meetup",
       "title": "Networking for AI Professionals around the world - August 13"
+    },
+    {
+      "date": "2026-08-06T18:00:00+00:00",
+      "id": "cf3a426752c86120dabaa17b5d57713c6d4af1925112efeeeb9afe3c189b6b17",
+      "registration_url": "https://www.meetup.com/washington-freedom-growth-club/events/315831728/",
+      "sent_at": "2026-07-31T11:35:52.294501+00:00",
+      "source": "Meetup",
+      "title": "Start Your Print-on-Demand Journey with AI"
+    },
+    {
+      "date": "2026-08-06T20:00:00+00:00",
+      "id": "17afcd9e0b91f7eb2ed3b360f7b6ae4bf907fe05429178b43dc31510314e7206",
+      "registration_url": "https://www.meetup.com/artificial-intelligence-for-business-group-washington-dc/events/315884711/",
+      "sent_at": "2026-07-31T11:35:52.294501+00:00",
+      "source": "Meetup",
+      "title": "From AI Overwhelm to AI Clarity: A Practical Masterclass for Leaders"
+    },
+    {
+      "date": "2026-08-17T16:00:00+00:00",
+      "id": "17d88ac7e4de66ee4ecb5d923e106cd509dd2bc2c12d969fcff53b25f7aa1ba5",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering-meetup-arlington-va/events/315875876/",
+      "sent_at": "2026-07-31T11:35:52.294501+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
     }
   ]
 }
