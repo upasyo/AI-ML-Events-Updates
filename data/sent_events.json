@@ -391,6 +391,14 @@
       "sent_at": "2026-08-02T10:52:00.593735+00:00",
       "source": "Meetup",
       "title": "Free Spanish Classes: Learn And Practice With Our Flexible 25-Minute Method"
+    },
+    {
+      "date": "2026-08-11T16:00:00+00:00",
+      "id": "28d31b7000fa754e34ac79537c26679e5ab07ed48f6804f312a1c0de8402ae94",
+      "registration_url": "https://www.meetup.com/all-things-ai-live/events/315778583/",
+      "sent_at": "2026-08-03T12:37:44.096383+00:00",
+      "source": "Meetup",
+      "title": "Lunch and Learn: Tokenomics 101"
     }
   ]
 }
