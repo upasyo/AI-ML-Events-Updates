@@ -399,6 +399,38 @@
       "sent_at": "2026-08-03T12:37:44.096383+00:00",
       "source": "Meetup",
       "title": "Lunch and Learn: Tokenomics 101"
+    },
+    {
+      "date": "2026-08-13T08:00:00+00:00",
+      "id": "776cb3ab84a2f1ee86b8b72b3066a650e1d3f3e3fab7148ee51c79d70cb5b8c2",
+      "registration_url": "https://www.meetup.com/silicon-valley-startup-idea-to-ipo/events/316036255/",
+      "sent_at": "2026-08-09T09:59:24.344853+00:00",
+      "source": "Meetup",
+      "title": "AI UNLEASHED SUMMIT! How to Become an AI-Assisted Entrepreneur!"
+    },
+    {
+      "date": "2026-08-13T18:30:00+00:00",
+      "id": "f66907ff40cac001918bf74a6d2f5dda1e4d6b611e9ae74096d47e11d5d97efc",
+      "registration_url": "https://www.meetup.com/ai-professionals-silicon-valley/events/315090022/",
+      "sent_at": "2026-08-09T09:59:24.344853+00:00",
+      "source": "Meetup",
+      "title": "Networking for AI Professionals around the world - August 13"
+    },
+    {
+      "date": "2026-08-14T02:00:00+00:00",
+      "id": "e9cdc59621cf7464b0ac6891f4602c5d032e53dcd61d958040191b5c47bee3c2",
+      "registration_url": "https://www.meetup.com/aiseceng-san-francisco-bay-area/events/315890669/",
+      "sent_at": "2026-08-09T09:59:24.344853+00:00",
+      "source": "Meetup",
+      "title": "Keeping Your Agents on a Leash"
+    },
+    {
+      "date": "2026-08-19T18:00:00+00:00",
+      "id": "d0c8c8923ec65b1a91f14d4c718dc6fbac4596204b812116f081d63b99bc986f",
+      "registration_url": "https://www.meetup.com/how-to-generate-an-income-online/events/315978522/",
+      "sent_at": "2026-08-09T09:59:24.344853+00:00",
+      "source": "Meetup",
+      "title": "How To Create An Easy Income With AI"
     }
   ]
 }
