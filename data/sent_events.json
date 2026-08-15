@@ -447,6 +447,14 @@
       "sent_at": "2026-08-13T10:30:29.610450+00:00",
       "source": "Meetup",
       "title": "Business Strategy"
+    },
+    {
+      "date": "2026-08-25T20:00:00+00:00",
+      "id": "ca1e7b58e5e6b20b9b9ec7ccbe33561eeb77d1eebbfc842b3a696a51b0aa1c03",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-seattle/events/315505573/",
+      "sent_at": "2026-08-15T09:43:36.888536+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Build a Reasoning Model (From Scratch)"
     }
   ]
 }
