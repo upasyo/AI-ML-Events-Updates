@@ -535,6 +535,14 @@
       "sent_at": "2026-08-16T09:45:19.320144+00:00",
       "source": "Meetup",
       "title": "Exploring AI Tools for Online Projects: A Practical Introduction"
+    },
+    {
+      "date": "2026-08-17T16:00:00+00:00",
+      "id": "93032a67b60bbc6ec228d1913023d6801a20c78fd3ee9606f34f5082369935ab",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering-meetup-arlington-va/events/315875876/",
+      "sent_at": "2026-08-17T10:00:20.909114+00:00",
+      "source": "Meetup",
+      "title": "Optimizing Continuous RL @ Fireworks: Rollout, Reward, Update, Repeat!"
     }
   ]
 }
