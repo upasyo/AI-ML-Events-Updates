@@ -543,6 +543,22 @@
       "sent_at": "2026-08-17T10:00:20.909114+00:00",
       "source": "Meetup",
       "title": "Optimizing Continuous RL @ Fireworks: Rollout, Reward, Update, Repeat!"
+    },
+    {
+      "date": "2026-08-25T16:00:00+00:00",
+      "id": "071ff8da72de2a54212d7bed28ff6cb1799d49aca4ec3ed55e2f134138a1eb41",
+      "registration_url": "https://www.meetup.com/all-things-ai-live/events/316064371/",
+      "sent_at": "2026-08-19T09:51:46.461296+00:00",
+      "source": "Meetup",
+      "title": "Lunch and Learn: Vibe Coding for Business Users \u2014 Build Real Web Apps with AI"
+    },
+    {
+      "date": "2026-09-01T16:00:00+00:00",
+      "id": "acaa8bacf045fc27d9bb2f31d581ec3aedcf41184c6c7c71349c6e58360226fc",
+      "registration_url": "https://www.meetup.com/all-things-ai-live/events/315778583/",
+      "sent_at": "2026-08-19T09:51:46.461296+00:00",
+      "source": "Meetup",
+      "title": "Lunch and Learn: Tokenomics 101"
     }
   ]
 }
