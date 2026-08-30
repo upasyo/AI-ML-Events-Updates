@@ -583,6 +583,62 @@
       "sent_at": "2026-08-28T20:56:13.990326+00:00",
       "source": "Meetup",
       "title": "(CS)\u00b2AI Author Spotlight\u2122: Cassie Crossley"
+    },
+    {
+      "date": "2026-09-03T01:00:00+00:00",
+      "id": "22b3e24dd2e5af4d433b3424ab5cb6a50fd58cfa621a2b6b1e6f94dd017c6525",
+      "registration_url": "https://www.meetup.com/hackerdojo/events/315973973/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "Wiki3: Own Your Own AI Workshop"
+    },
+    {
+      "date": "2026-09-06T23:00:00+00:00",
+      "id": "4b0a3313117146b3ca7f552b04b49038bdba734e354eb4d864d99f2a24dad35a",
+      "registration_url": "https://www.meetup.com/cognitive-computing-collective/events/315879612/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "Week 6 \u2014 Predictive Processing & Free Energy: Grand Theory or Unfalsifiable?"
+    },
+    {
+      "date": "2026-09-09T02:00:00+00:00",
+      "id": "63724c5006b8eaf21a4838f336282aa4c5cf15ca2e766626ae5a344ae3147f4c",
+      "registration_url": "https://www.meetup.com/supportvectors/events/316284629/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "Foundations of Machine Learning - Day 1"
+    },
+    {
+      "date": "2026-09-10T02:00:00+00:00",
+      "id": "8b1a6c6c2aff03e22e79f21e1500bc9a27f20a6978b1ef01964fe91a8050de89",
+      "registration_url": "https://www.meetup.com/supportvectors/events/316308563/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "Foundations of Machine Learning - Day 2"
+    },
+    {
+      "date": "2026-09-11T02:00:00+00:00",
+      "id": "0a04859625e7594898a3bc7fac377f671988bb76cfbe51dc0ae697b3cef69e02",
+      "registration_url": "https://www.meetup.com/supportvectors/events/316308566/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "Foundations of Machine Learning - Day 3"
+    },
+    {
+      "date": "2026-09-20T23:00:00+00:00",
+      "id": "d4d3ea6bf29e0ade5ce41b7692a8f2c6d05a1ed9b1fffdd7f5522fc0ac775042",
+      "registration_url": "https://www.meetup.com/cognitive-computing-collective/events/315879670/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "Week 8 \u2014 Model Fitting Night: Parameter Recovery & Show and Tell"
+    },
+    {
+      "date": "2026-09-29T20:00:00+00:00",
+      "id": "ed817268ede9ec9cc69b2d88c9a52e99e25b5054eb8219e33350d8fcd0cc5f0d",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/315521576/",
+      "sent_at": "2026-08-30T14:26:28.512830+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Vision Language Models (VLMs)"
     }
   ]
 }
