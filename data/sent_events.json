@@ -687,6 +687,30 @@
       "sent_at": "2026-09-02T13:43:13.940320+00:00",
       "source": "Meetup",
       "title": "The AI Income Launchpad: A Simpler Way to Start Online \ud83d\ude80"
+    },
+    {
+      "date": "2026-09-10T16:00:00+00:00",
+      "id": "a8a29510b9a9f1401c691bda868930d9c65aa876cdc981ed07390fdf9fc5a22d",
+      "registration_url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316116388/",
+      "sent_at": "2026-09-06T12:54:57.927358+00:00",
+      "source": "Meetup",
+      "title": "AI UNLEASHED SUMMIT!"
+    },
+    {
+      "date": "2026-09-17T19:00:00+00:00",
+      "id": "566d0a226e300fcc5aca0b9be732ef33695b3747a0aae4973094d09366c33282",
+      "registration_url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316201626/",
+      "sent_at": "2026-09-06T12:54:57.927358+00:00",
+      "source": "Meetup",
+      "title": "AI Professional Certification Summit!"
+    },
+    {
+      "date": "2026-09-22T22:00:00+00:00",
+      "id": "bc0db19a521bae870aa732ab7081195d0e081f24b3411dd33cf003a4d3438e1d",
+      "registration_url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316339127/",
+      "sent_at": "2026-09-06T12:54:57.927358+00:00",
+      "source": "Meetup",
+      "title": "From Expert to Builder: Using AI to Turn Your Knowledge Into Products"
     }
   ]
 }
