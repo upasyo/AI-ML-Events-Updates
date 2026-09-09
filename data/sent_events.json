@@ -711,6 +711,38 @@
       "sent_at": "2026-09-06T12:54:57.927358+00:00",
       "source": "Meetup",
       "title": "From Expert to Builder: Using AI to Turn Your Knowledge Into Products"
+    },
+    {
+      "date": "2026-09-09T18:00:00+00:00",
+      "id": "94a6f25ea09389e0d7cd7be7d2bdbcb4393fc2415a8f746e6af5998489835ec7",
+      "registration_url": "https://www.meetup.com/how-to-generate-an-income-online/events/316382222/",
+      "sent_at": "2026-09-09T13:46:00.230481+00:00",
+      "source": "Meetup",
+      "title": "How To Create An Easy Income With AI"
+    },
+    {
+      "date": "2026-09-16T18:00:00+00:00",
+      "id": "86fedfee96b2be5b63e91b023cc349f387c0f90a1258869c1d88f08d028d526f",
+      "registration_url": "https://www.meetup.com/how-to-generate-an-income-online/events/316382223/",
+      "sent_at": "2026-09-09T13:46:00.230481+00:00",
+      "source": "Meetup",
+      "title": "How To Create An Easy Income With AI"
+    },
+    {
+      "date": "2026-09-21T16:00:00+00:00",
+      "id": "f024a0a582c6fc17290a0f8877d73e16dea22acd702c4e17aa87314599ca17fc",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering/events/313388823/",
+      "sent_at": "2026-09-09T13:46:00.230481+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
+    },
+    {
+      "date": "2026-10-06T20:00:00+00:00",
+      "id": "ed983bfb10484360dfe1002ac03a0e01e9f8035ec39f086021e40f3d2afcbde5",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/315521576/",
+      "sent_at": "2026-09-09T13:46:00.230481+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Vision Language Models (VLMs)"
     }
   ]
 }
