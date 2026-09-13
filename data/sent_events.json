@@ -743,6 +743,70 @@
       "sent_at": "2026-09-09T13:46:00.230481+00:00",
       "source": "Meetup",
       "title": "AI Book Club: Vision Language Models (VLMs)"
+    },
+    {
+      "date": "2026-09-14T19:00:00+00:00",
+      "id": "55ece771f0194d399d4e6a5ce06a93d299232a214131bb99a2e117caf85e0d8a",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/316323023/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "The Built-for-You AI Business System: How It Works"
+    },
+    {
+      "date": "2026-09-15T23:00:00+00:00",
+      "id": "c7387a10999c4fc40849508e5a54f4ff1d49c1e90dafec52c800d40cfec1ee11",
+      "registration_url": "https://www.meetup.com/washington-freedom-growth-club/events/316420487/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "The AI Business System Built For You"
+    },
+    {
+      "date": "2026-09-15T23:00:00+00:00",
+      "id": "fac115cdd561254604ff11d23013568783e7c71ce7d0c5c8402090fe12475017",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/316323054/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "The Built-for-You AI Business System: How It Works"
+    },
+    {
+      "date": "2026-09-16T19:00:00+00:00",
+      "id": "817be66cbe43fb80154186f75cc734dfa7fe0dcfe4cc7bd918dfe8babae6f276",
+      "registration_url": "https://www.meetup.com/washington-freedom-growth-club/events/316435118/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "Build a Profitable Side Hustle Faster Using AI - Free 40 Minute Masterclass"
+    },
+    {
+      "date": "2026-09-21T16:00:00+00:00",
+      "id": "5bf6b883b30e6a74766994618ecb7b7ad503aea2a1529b7652129bae9f1dbad0",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering-meetup-arlington-va/events/316371404/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
+    },
+    {
+      "date": "2026-09-21T19:00:00+00:00",
+      "id": "a007f738c2830679989dfe30515c93a9a2835da4c7986464f7f10e586fe26bc5",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/316336895/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "The AI Business Launchpad: A Practical Guide for Beginners"
+    },
+    {
+      "date": "2026-09-22T23:00:00+00:00",
+      "id": "8f540ccb869ccec1aeb20b053c3fbf753479faf0698157244e849ae1323bc30d",
+      "registration_url": "https://www.meetup.com/washington-freedom-growth-club/events/316420932/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "The AI Business Launch System"
+    },
+    {
+      "date": "2026-09-22T23:00:00+00:00",
+      "id": "be31a7a4c8274a40c31b6431af6f1b3fbfbeab2cc942f9eb3a0a7419c12501f3",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/316337080/",
+      "sent_at": "2026-09-13T13:49:26.303293+00:00",
+      "source": "Meetup",
+      "title": "The AI Business Launchpad: A Practical Guide for Beginners"
     }
   ]
 }
