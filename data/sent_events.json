@@ -807,6 +807,38 @@
       "sent_at": "2026-09-13T13:49:26.303293+00:00",
       "source": "Meetup",
       "title": "The AI Business Launchpad: A Practical Guide for Beginners"
+    },
+    {
+      "date": "2026-09-17T02:00:00+00:00",
+      "id": "43e677b88f02f2cfbd1b3cd57ffbdc5509cff6a80c4b736cbfb37e315cbbf3b8",
+      "registration_url": "https://www.meetup.com/scottsdale-tech-parents-ai-stem-the-future/events/316307495/",
+      "sent_at": "2026-09-16T14:13:45.246514+00:00",
+      "source": "Meetup",
+      "title": "AI, Kids & the Future: A Conversation for Tech Parents"
+    },
+    {
+      "date": "2026-09-17T16:00:00+00:00",
+      "id": "59c5c23276de3609ee76c122fef7265ccc9a47ec2769ac30e4636ec355b05198",
+      "registration_url": "https://www.meetup.com/ac-phx/events/316554696/",
+      "sent_at": "2026-09-16T14:13:45.246514+00:00",
+      "source": "Meetup",
+      "title": "Career Connect"
+    },
+    {
+      "date": "2026-09-18T01:00:00+00:00",
+      "id": "31dd5224e3ea9e783ca780d56954751aaa4ef5a621f2319d13731f6adb657180",
+      "registration_url": "https://www.meetup.com/phoenix-life-coaching-and-neurological-repatterning/events/316321182/",
+      "sent_at": "2026-09-16T14:13:45.246514+00:00",
+      "source": "Meetup",
+      "title": "Free event - Increase your Influence in the age of AI"
+    },
+    {
+      "date": "2026-09-22T16:00:00+00:00",
+      "id": "0ee9d302bd1e1ebe6fd2e396c714bbbe111088c1ac2e1e8415e4ce931d4df78d",
+      "registration_url": "https://www.meetup.com/lfdt-phoenix/events/316184993/",
+      "sent_at": "2026-09-16T14:13:45.246514+00:00",
+      "source": "Meetup",
+      "title": "How To Improve The Quality Of Your Project With AI Powered Tools"
     }
   ]
 }
