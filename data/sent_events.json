@@ -863,6 +863,38 @@
       "sent_at": "2026-09-19T13:12:40.465333+00:00",
       "source": "Meetup",
       "title": "Understanding AI"
+    },
+    {
+      "date": "2026-09-22T19:00:00+00:00",
+      "id": "fb62e57a2570db7473dbe2703726d3130926a3c8e65e19542d496928f1384fc0",
+      "registration_url": "https://www.meetup.com/palo-alto-ai-business-vibes/events/316618460/",
+      "sent_at": "2026-09-20T13:36:25.582235+00:00",
+      "source": "Meetup",
+      "title": "Where Do Your 10 Hours Go? A Live AI Time Audit"
+    },
+    {
+      "date": "2026-09-23T01:30:00+00:00",
+      "id": "b4d959d1d85643b62a8bc38b2276dfdc1706dd68d3a5349c319756f1bad2e513",
+      "registration_url": "https://www.meetup.com/deep-learning-sf/events/316601593/",
+      "sent_at": "2026-09-20T13:36:25.582235+00:00",
+      "source": "Meetup",
+      "title": "Rob and Cosmin go over \"Full Bandwidth Transformer\""
+    },
+    {
+      "date": "2026-09-25T19:00:00+00:00",
+      "id": "b33d7119e6b5b63c95fc240dbe5d4ba4f2fa0af278f76da1d020d19b5de18e14",
+      "registration_url": "https://www.meetup.com/palo-alto-ai-business-vibes/events/316618641/",
+      "sent_at": "2026-09-20T13:36:25.582235+00:00",
+      "source": "Meetup",
+      "title": "Answer It Once: An AI That Handles Repeat Customer Emails"
+    },
+    {
+      "date": "2026-11-03T15:00:00+00:00",
+      "id": "e41281d8eccd6822faf8be912c5f033b6041262017d3d0be7c9dacd772c05141",
+      "registration_url": "https://www.meetup.com/snowflake-bay-area-meetup/events/316592097/",
+      "sent_at": "2026-09-20T13:36:25.582235+00:00",
+      "source": "Meetup",
+      "title": "Snowflake Expedition 2026: Embark on Your Agentic Transformation"
     }
   ]
 }
