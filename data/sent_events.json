@@ -903,6 +903,22 @@
       "sent_at": "2026-09-23T14:16:06.640647+00:00",
       "source": "Meetup",
       "title": "Securing the Agentic Era: Cisco's Network-Native Defense"
+    },
+    {
+      "date": "2026-09-30T19:00:00+00:00",
+      "id": "3c82dd46a665c98123a306b2ce0fb7595c377a74a6b0aa38428858258f6091cc",
+      "registration_url": "https://www.meetup.com/chicago-ai-business-network/events/316665275/",
+      "sent_at": "2026-09-25T14:38:04.424591+00:00",
+      "source": "Meetup",
+      "title": "AI Sales Funnels - How To Turn Ad Spend Into Customers [ONLINE]"
+    },
+    {
+      "date": "2026-10-08T18:00:00+00:00",
+      "id": "f9edba55ac4750cee7ba890a4fb382fa103d498f2dc059f469ee2497e17cfe00",
+      "registration_url": "https://www.meetup.com/chicago-social-media-enthusiasts/events/316573298/",
+      "sent_at": "2026-09-25T14:38:04.424591+00:00",
+      "source": "Meetup",
+      "title": "Free Live Webinar: \ud83e\udd16 Build Your AI Workforce Before Your Competitors Do"
     }
   ]
 }
