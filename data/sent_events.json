@@ -919,6 +919,22 @@
       "sent_at": "2026-09-25T14:38:04.424591+00:00",
       "source": "Meetup",
       "title": "Free Live Webinar: \ud83e\udd16 Build Your AI Workforce Before Your Competitors Do"
+    },
+    {
+      "date": "2026-09-30T19:00:00+00:00",
+      "id": "b537bedd8592059cc8ea9c359870bd8943fe688f78474c8859910bb2a42b6a21",
+      "registration_url": "https://www.meetup.com/seattle-ai-for-business-owners/events/316665273/",
+      "sent_at": "2026-09-27T14:43:53.832998+00:00",
+      "source": "Meetup",
+      "title": "AI Sales Funnels - How To Turn Ad Spend Into Customers [ONLINE]"
+    },
+    {
+      "date": "2026-10-06T20:00:00+00:00",
+      "id": "16077ef9572120959531f5ea7a5460cd7ccdbf925131dbc0705a6f20c88ff1a9",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-seattle/events/315521875/",
+      "sent_at": "2026-09-27T14:43:53.832998+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Vision Language Models (VLMs)"
     }
   ]
 }
