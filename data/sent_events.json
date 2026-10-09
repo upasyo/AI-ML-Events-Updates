@@ -1007,6 +1007,62 @@
       "sent_at": "2026-10-07T16:36:38.915885+00:00",
       "source": "Meetup",
       "title": "The AI-Built Business That Works While You Don\u2019t \ud83e\udd16"
+    },
+    {
+      "date": "2026-10-14T15:00:00+00:00",
+      "id": "f57283ffd4f4fb69c1591404750b038b0f5f3d8a1af1ed34b9c6d1161e6afdb7",
+      "registration_url": "https://www.meetup.com/ac-iad/events/316306349/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-10-14T18:00:00+00:00",
+      "id": "73b9030c8e692ae632cd0dcff2e95d2ba4f9ad73fc9f5b1e23a43ca960905366",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/316826683/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "Exploring AI Tools for Online Projects: A Practical Introduction"
+    },
+    {
+      "date": "2026-10-14T18:00:00+00:00",
+      "id": "a0c6449cb16b443af57d0a19740b7fd75dc705e8eb1270fed5a0e411903b7057",
+      "registration_url": "https://www.meetup.com/washington-freedom-growth-club/events/316753634/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "Getting Started with AI for Online Income"
+    },
+    {
+      "date": "2026-10-19T16:00:00+00:00",
+      "id": "e004f40f579ef5d6b9787028c1b39e3d2926bbae640bd1c5370eea8e62a1d90a",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering-meetup-arlington-va/events/316766178/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
+    },
+    {
+      "date": "2026-10-19T16:00:00+00:00",
+      "id": "c6e02f02f0331171a7347e9ab83f38651ea42be861496d0bfd35060250558db0",
+      "registration_url": "https://www.meetup.com/the-ai-briefing-room/events/316751052/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "Save 10 Hours a Week: Run Your Operations with Claude [ONLINE]"
+    },
+    {
+      "date": "2026-10-19T19:00:00+00:00",
+      "id": "f03f48231274e0cc6b0d279bde2f0c592247d7b60eb0487896f6fb22ada4d3a0",
+      "registration_url": "https://www.meetup.com/philadelphia-online-business-personal-growth-community/events/316872953/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "Building Smarter Businesses with AI \ud83e\udd16"
+    },
+    {
+      "date": "2026-12-04T00:00:00+00:00",
+      "id": "84dcd9a1988c7c8f783fcd4d2a82cdd8b59c272ae017d0aefba1f45169aea410",
+      "registration_url": "https://www.meetup.com/deep-learning-adventures/events/302185317/",
+      "sent_at": "2026-10-09T16:18:05.009721+00:00",
+      "source": "Meetup",
+      "title": "GCP Professional Machine Learning Engineer: Preparation Strategy+Exam Experience"
     }
   ]
 }
