@@ -1063,6 +1063,22 @@
       "sent_at": "2026-10-09T16:18:05.009721+00:00",
       "source": "Meetup",
       "title": "GCP Professional Machine Learning Engineer: Preparation Strategy+Exam Experience"
+    },
+    {
+      "date": "2026-10-21T18:00:00+00:00",
+      "id": "043024dee452550d23bc5520cb95db1dc6bfefd8a1079c99aef138cbf9db4a30",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/316905788/",
+      "sent_at": "2026-10-11T15:46:47.558052+00:00",
+      "source": "Meetup",
+      "title": "Exploring AI Tools for Online Projects: A Practical Introduction"
+    },
+    {
+      "date": "2026-11-05T17:00:00+00:00",
+      "id": "d6ffa99dfafba464f03b203cbee7c482880b81d66b601e0d30b285018a63a50b",
+      "registration_url": "https://www.meetup.com/the-ai-briefing-room/events/316860157/",
+      "sent_at": "2026-10-11T15:46:47.558052+00:00",
+      "source": "Meetup",
+      "title": "Claude Projects: Build an AI Assistant That Knows Your Business [ONLINE]"
     }
   ]
 }
