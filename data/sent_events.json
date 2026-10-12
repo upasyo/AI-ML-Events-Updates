@@ -1079,6 +1079,54 @@
       "sent_at": "2026-10-11T15:46:47.558052+00:00",
       "source": "Meetup",
       "title": "Claude Projects: Build an AI Assistant That Knows Your Business [ONLINE]"
+    },
+    {
+      "date": "2026-10-14T18:00:00+00:00",
+      "id": "d3e2c39383fd1ac7f3214e23585d5305d8c6b84064f79d418a3265fa22b9d9e4",
+      "registration_url": "https://www.meetup.com/how-to-generate-an-income-online/events/316705755/",
+      "sent_at": "2026-10-12T19:07:04.764369+00:00",
+      "source": "Meetup",
+      "title": "How To Create An Easy Income With AI"
+    },
+    {
+      "date": "2026-10-19T16:00:00+00:00",
+      "id": "f5c431b8b4b2cd9fa23e8786851df5bd2a08dfe601ffb5301d7ff7393bbbbaa7",
+      "registration_url": "https://www.meetup.com/ai-performance-engineering-meetup-san-francisco2/events/315262589/",
+      "sent_at": "2026-10-12T19:07:04.764369+00:00",
+      "source": "Meetup",
+      "title": "GPU, CUDA, and PyTorch Performance Optimizations"
+    },
+    {
+      "date": "2026-10-27T20:00:00+00:00",
+      "id": "230048d1da581725158f2fa065ad7332f0e1aee35e7a69bdc298d2477f52f7b0",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316684899/",
+      "sent_at": "2026-10-12T19:07:04.764369+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Grokking Deep Reinforcement Learning"
+    },
+    {
+      "date": "2026-10-29T18:00:00+00:00",
+      "id": "dc0b0e5279262268423cc9a4f64588904949eaa07ac488cb65747b42524f656d",
+      "registration_url": "https://www.meetup.com/techeventsftx/events/316553600/",
+      "sent_at": "2026-10-12T19:07:04.764369+00:00",
+      "source": "Meetup",
+      "title": "Conf42 Prompt Engineering 2026 - Online"
+    },
+    {
+      "date": "2026-11-02T17:30:00+00:00",
+      "id": "4b44ee691759b800a5d530f9df4b1172ff7f367e8a4e42f12b99ba58dcee6bb2",
+      "registration_url": "https://www.meetup.com/real-time-analytics-and-ai/events/316657797/",
+      "sent_at": "2026-10-12T19:07:04.764369+00:00",
+      "source": "Meetup",
+      "title": "OSA CON 2026: The Anti-Hype Conference for Open Source Analytics and AI"
+    },
+    {
+      "date": "2026-11-10T21:00:00+00:00",
+      "id": "97a895289345d9a923433d6dededa6c1f5ec85dfb892e89f0078515b050a430f",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316685013/",
+      "sent_at": "2026-10-12T19:07:04.764369+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Reinforcement Learning from Human Feedback (RLHF)"
     }
   ]
 }
