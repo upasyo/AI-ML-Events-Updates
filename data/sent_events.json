@@ -1127,6 +1127,30 @@
       "sent_at": "2026-10-12T19:07:04.764369+00:00",
       "source": "Meetup",
       "title": "AI Book Club: Reinforcement Learning from Human Feedback (RLHF)"
+    },
+    {
+      "date": "2026-10-14T22:00:00+00:00",
+      "id": "e4b7a35d9578c15c4007873122b019fc146fe6d304cd00cc4aa1f2dae6a20312",
+      "registration_url": "https://www.meetup.com/ac-aus/events/316700407/",
+      "sent_at": "2026-10-14T14:32:48.099186+00:00",
+      "source": "Meetup",
+      "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-10-19T23:00:00+00:00",
+      "id": "ca2c65629d6f9a2439c1039833756df851dbdd3fa9fc79660edc7b8b241830e9",
+      "registration_url": "https://www.meetup.com/nextwork-build-and-brew-san-antonio/events/316771733/",
+      "sent_at": "2026-10-14T14:32:48.099186+00:00",
+      "source": "Meetup",
+      "title": "Nextwork AI Training & Project Development"
+    },
+    {
+      "date": "2026-10-22T09:00:00+00:00",
+      "id": "f80e2aca56b4db8cd9323a5a1fdf00b9f21b33781e1859e4d57053624c8acb93",
+      "registration_url": "https://www.meetup.com/austin-tx-thrive-wellbeing-business-community/events/316971672/",
+      "sent_at": "2026-10-14T14:32:48.099186+00:00",
+      "source": "Meetup",
+      "title": "The AI-Built Business: Work Smarter with Automation"
     }
   ]
 }
