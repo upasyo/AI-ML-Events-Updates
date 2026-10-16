@@ -1151,6 +1151,54 @@
       "sent_at": "2026-10-14T14:32:48.099186+00:00",
       "source": "Meetup",
       "title": "The AI-Built Business: Work Smarter with Automation"
+    },
+    {
+      "date": "2026-10-22T18:00:00+00:00",
+      "id": "cd9f93aa15897ccb4bd487b9a7ed5dbb39f56afd6c1d4745cc305b4058a81da6",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/316859876/",
+      "sent_at": "2026-10-16T14:00:45.825208+00:00",
+      "source": "Meetup",
+      "title": "Hire Your First Remote Assistant and Manage Them with Claude [ONLINE]"
+    },
+    {
+      "date": "2026-10-22T20:00:00+00:00",
+      "id": "f0cf474218da62f4d6695a00fe1a8f52f4c72b174fc31a572b34a15e357c35b5",
+      "registration_url": "https://www.meetup.com/shipai/events/316818036/",
+      "sent_at": "2026-10-16T14:00:45.825208+00:00",
+      "source": "Meetup",
+      "title": "Design Office Hours"
+    },
+    {
+      "date": "2026-10-23T01:00:00+00:00",
+      "id": "f808295686ab56a4a3694ed1e927be869d51b0dd9993a35d176ab217a1da3907",
+      "registration_url": "https://www.meetup.com/phoenix-life-coaching-and-neurological-repatterning/events/316958237/",
+      "sent_at": "2026-10-16T14:00:45.825208+00:00",
+      "source": "Meetup",
+      "title": "Ultimate Memory + AI: Free Live Intro for Beginners"
+    },
+    {
+      "date": "2026-10-29T18:00:00+00:00",
+      "id": "6b9209bb9dcb4f0c13c223a1f3372d25e04e1562520d054845cdea3e315279a3",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/316860095/",
+      "sent_at": "2026-10-16T14:00:45.825208+00:00",
+      "source": "Meetup",
+      "title": "Claude Workshop for Beginners: Set Up Your AI Assistant Live [ONLINE]"
+    },
+    {
+      "date": "2026-11-03T21:00:00+00:00",
+      "id": "0bf2882228b897270b0ce883773eecd28cb86a8eaff8629ea2413bc2f0c05d19",
+      "registration_url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
+      "sent_at": "2026-10-16T14:00:45.825208+00:00",
+      "source": "Meetup",
+      "title": "Ask Aaron Anything! Your AI Questions Answered"
+    },
+    {
+      "date": "2026-11-04T20:00:00+00:00",
+      "id": "9f60af24799a73767191486d54144363fbbf2f9a05a977489cff20d5eb201b3b",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/316836745/",
+      "sent_at": "2026-10-16T14:00:45.825208+00:00",
+      "source": "Meetup",
+      "title": "You Prompt, Claude Builds: A Funnel Page That Sells in One Afternoon [ONLINE]"
     }
   ]
 }
