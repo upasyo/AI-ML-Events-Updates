@@ -1199,6 +1199,46 @@
       "sent_at": "2026-10-16T14:00:45.825208+00:00",
       "source": "Meetup",
       "title": "You Prompt, Claude Builds: A Funnel Page That Sells in One Afternoon [ONLINE]"
+    },
+    {
+      "date": "2026-10-26T02:00:00+00:00",
+      "id": "e76fb1f61647a576be59027ee1c4af4043c985cbd286f3cb4a20eb69407430ff",
+      "registration_url": "https://www.meetup.com/quebec-english/events/316862398/",
+      "sent_at": "2026-10-24T13:22:55.968381+00:00",
+      "source": "Meetup",
+      "title": "English Speaking Practice - Professional Host!"
+    },
+    {
+      "date": "2026-10-29T18:00:00+00:00",
+      "id": "1afc4e9ba9ad0d944a92acc7932130076cb4dc068dd268179bb3e61bfd615202",
+      "registration_url": "https://www.meetup.com/quebec-english/events/316884235/",
+      "sent_at": "2026-10-24T13:22:55.968381+00:00",
+      "source": "Meetup",
+      "title": "\u2615 Casual Conversation - All Welcome"
+    },
+    {
+      "date": "2026-11-04T17:00:00+00:00",
+      "id": "c93545ca99ea69e7dea9b65f6dead6a136bac181efbd996de38b783407141d3a",
+      "registration_url": "https://www.meetup.com/quebec-english/events/316996364/",
+      "sent_at": "2026-10-24T13:22:55.968381+00:00",
+      "source": "Meetup",
+      "title": "Founders for Founders (F4F): Meetup for Entrepreneurs"
+    },
+    {
+      "date": "2026-11-04T18:00:00+00:00",
+      "id": "799fdd3795103fd78ac6055385b2a3bd2922d28fa3018fcc630e7385e8dc6622",
+      "registration_url": "https://www.meetup.com/quebec-english/events/316997161/",
+      "sent_at": "2026-10-24T13:22:55.968381+00:00",
+      "source": "Meetup",
+      "title": "\ud83d\udcad Deep Conversation - All Welcome"
+    },
+    {
+      "date": "2026-11-05T17:00:00+00:00",
+      "id": "09828bbb6919cb9db75f27edf3f120f70ca573300db4506c0e0fe8eef6160ae2",
+      "registration_url": "https://www.meetup.com/le-wagon-montreal/events/317074698/",
+      "sent_at": "2026-10-24T13:22:55.968381+00:00",
+      "source": "Meetup",
+      "title": "Stop copy-pasting, start automating: Discover our AI & Data Automation course"
     }
   ]
 }
