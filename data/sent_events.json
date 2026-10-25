@@ -1239,6 +1239,62 @@
       "sent_at": "2026-10-24T13:22:55.968381+00:00",
       "source": "Meetup",
       "title": "Stop copy-pasting, start automating: Discover our AI & Data Automation course"
+    },
+    {
+      "date": "2026-10-28T01:00:00+00:00",
+      "id": "d6b66634857d223e5c45da35b97eeec48e9d8f66612bf5a8e75ffaafb19921da",
+      "registration_url": "https://www.meetup.com/data-driven-traders-network/events/316891396/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "AI Business Growth Tuesdays"
+    },
+    {
+      "date": "2026-10-29T14:00:00+00:00",
+      "id": "a92bcadf6e82c01b0d9974fc47100a40d6ae9299178a1752d880814743d32680",
+      "registration_url": "https://www.meetup.com/entrepreneurs-chicago/events/316910510/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "AI Professional Certification Summit!"
+    },
+    {
+      "date": "2026-10-29T17:00:00+00:00",
+      "id": "b38e88c78284ba6bcd5e2be5c5851ab349e559ac9f741d5174aa98fd1ae8c05e",
+      "registration_url": "https://www.meetup.com/chicago-ai-business-network/events/316953540/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "A Free Guide That Wins Clients: Build It with ChatGPT in 20 Minutes [ONLINE]"
+    },
+    {
+      "date": "2026-11-03T18:00:00+00:00",
+      "id": "29c1d577b6d5b7a600a21da1b15acc0ecb5262975669c47244160654b5f0422e",
+      "registration_url": "https://www.meetup.com/chicago-startup-founders/events/316991319/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!"
+    },
+    {
+      "date": "2026-11-11T23:00:00+00:00",
+      "id": "59ec69d365ba61c9f8e2fd188ac562b08b842dc1c2f65477d8c0c5edff53ccf2",
+      "registration_url": "https://www.meetup.com/ac-ord/events/317096497/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-11-12T19:00:00+00:00",
+      "id": "b577843ed8b780df80c0b5ac7e28aa5ab49024f57651ad118f47906db9bbe710",
+      "registration_url": "https://www.meetup.com/chicago-social-media-enthusiasts/events/317106211/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "Free Live Webinar: \ud83e\udd16 Build Your AI Workforce Before Your Competitors Do"
+    },
+    {
+      "date": "2026-11-13T03:00:00+00:00",
+      "id": "a5cc2016bbf691ab5a0b71e181d61c964faedfa62d520f6b19c9f8aeb8b6dfe5",
+      "registration_url": "https://www.meetup.com/graphdb-midwest/events/314349598/",
+      "sent_at": "2026-10-25T13:44:54.857131+00:00",
+      "source": "Meetup",
+      "title": "NODES 2026"
     }
   ]
 }
