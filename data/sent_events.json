@@ -1295,6 +1295,14 @@
       "sent_at": "2026-10-25T13:44:54.857131+00:00",
       "source": "Meetup",
       "title": "NODES 2026"
+    },
+    {
+      "date": "2026-11-04T15:00:00+00:00",
+      "id": "ce8a711c26dbe98133120127ea692e31a127c2d59be888b3f415c6bbe312364a",
+      "registration_url": "https://www.meetup.com/minneapolis-enterprise-ai/events/317176509/",
+      "sent_at": "2026-10-29T16:13:46.295568+00:00",
+      "source": "Meetup",
+      "title": "AI Summit (Virtual) - Run AI and Data Pipelines"
     }
   ]
 }
