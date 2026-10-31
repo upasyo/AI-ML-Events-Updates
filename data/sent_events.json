@@ -1303,6 +1303,14 @@
       "sent_at": "2026-10-29T16:13:46.295568+00:00",
       "source": "Meetup",
       "title": "AI Summit (Virtual) - Run AI and Data Pipelines"
+    },
+    {
+      "date": "2026-11-11T22:00:00+00:00",
+      "id": "9d054c42a44b05246f0dfa37fb6c826888bbce054429be7170bcdbc7501fee64",
+      "registration_url": "https://www.meetup.com/ac-rdu/events/317095952/",
+      "sent_at": "2026-10-31T15:23:01.858545+00:00",
+      "source": "Meetup",
+      "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
     }
   ]
 }
