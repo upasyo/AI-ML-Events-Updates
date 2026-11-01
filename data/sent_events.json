@@ -1311,6 +1311,70 @@
       "sent_at": "2026-10-31T15:23:01.858545+00:00",
       "source": "Meetup",
       "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-11-02T19:30:00+00:00",
+      "id": "dfcdcb074862b28780a2ec0e0bc74b193c368e2b3e66fa9e19d3f11846f54cd0",
+      "registration_url": "https://www.meetup.com/atlanta-top-notch-transformation/events/317176112/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "Break Free from Overthinking & People-Pleasing: Rewire for Confidence"
+    },
+    {
+      "date": "2026-11-04T00:00:00+00:00",
+      "id": "91bd26701dacf9805723cb6d02fa2f93f48c30eac10f8839da008f49d843cfb2",
+      "registration_url": "https://www.meetup.com/ai-growth-circle/events/317016371/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "AI COMMUNITY NIGHT - Tuesdays @7pm (FREE|Remote) - a group-led event"
+    },
+    {
+      "date": "2026-11-04T15:00:00+00:00",
+      "id": "ede8d85146fda929f2f05120e2d35a26868b65796e05b0949741c05ac68525d1",
+      "registration_url": "https://www.meetup.com/aittg-atlanta/events/317176420/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "AI Summit (Virtual) - Run AI and Data Pipelines"
+    },
+    {
+      "date": "2026-11-04T19:00:00+00:00",
+      "id": "3964904f9411a60d50b5367051e59f88dd06bd68de2a6917d71a313401caa874",
+      "registration_url": "https://www.meetup.com/atlanta-top-notch-transformation/events/317169581/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "Learn How to Create an Easy Income With AI"
+    },
+    {
+      "date": "2026-11-05T17:00:00+00:00",
+      "id": "1e68516e73c14a633fbff489e41b0a417b646b862c153306fa267a403bef8e55",
+      "registration_url": "https://www.meetup.com/joingps/events/317012922/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "Q&AI Weekly \u2014 Build Real AI Skills (Live with Bobby V.)"
+    },
+    {
+      "date": "2026-11-06T00:00:00+00:00",
+      "id": "c4dad764720e97cbe921ab4a5219fee6219714f7c8c5308d3ce5a5282e821fba",
+      "registration_url": "https://www.meetup.com/ai-growth-circle/events/315939837/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "FREE REMOTE | AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)"
+    },
+    {
+      "date": "2026-11-20T00:00:00+00:00",
+      "id": "31b15ee22cc32f89085f00aa06c0b79724aed2924bce88e0e15b690301f34533",
+      "registration_url": "https://www.meetup.com/ai-growth-circle/events/315939839/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)"
+    },
+    {
+      "date": "2026-12-04T00:00:00+00:00",
+      "id": "3e40130c09e546cb0799bfa66ae5bc996913db9a1d158a161020e7b1fc7a8757",
+      "registration_url": "https://www.meetup.com/ai-growth-circle/events/315939841/",
+      "sent_at": "2026-11-01T16:05:50.885523+00:00",
+      "source": "Meetup",
+      "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)"
     }
   ]
 }
