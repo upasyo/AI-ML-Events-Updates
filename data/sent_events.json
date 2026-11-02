@@ -1375,6 +1375,22 @@
       "sent_at": "2026-11-01T16:05:50.885523+00:00",
       "source": "Meetup",
       "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)"
+    },
+    {
+      "date": "2026-11-03T03:30:00+00:00",
+      "id": "63eada4eefc764cda59b71e0913f85facddf192d6b20baad50c42c9ac6d21046",
+      "registration_url": "https://www.meetup.com/business-growth-lab-solve-problems-build-together-seattle/events/317171332/",
+      "sent_at": "2026-11-02T19:33:31.529699+00:00",
+      "source": "Meetup",
+      "title": "One Prompt. 100+ Art Styles. Watch It Happen Live."
+    },
+    {
+      "date": "2026-11-10T21:00:00+00:00",
+      "id": "2509d02d0cc6c260b3dab862340d0ca03dd480680f3488b0a6044a2f27f87bc7",
+      "registration_url": "https://www.meetup.com/ai-builders-and-learners-seattle/events/316685014/",
+      "sent_at": "2026-11-02T19:33:31.529699+00:00",
+      "source": "Meetup",
+      "title": "AI Book Club: Reinforcement Learning from Human Feedback (RLHF)"
     }
   ]
 }
