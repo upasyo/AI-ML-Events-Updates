@@ -1391,6 +1391,102 @@
       "sent_at": "2026-11-02T19:33:31.529699+00:00",
       "source": "Meetup",
       "title": "AI Book Club: Reinforcement Learning from Human Feedback (RLHF)"
+    },
+    {
+      "date": "2026-11-09T17:00:00+00:00",
+      "id": "9fcd180f9a8e0c99a7d1d5f2936ae97673fafb8314b3ee72499c77e75d556f5b",
+      "registration_url": "https://www.meetup.com/data-science-dojo-phoenix/events/317283999/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Agentic AI Conference: Two Free Virtual Days on AI Agents (Nov 9-10)"
+    },
+    {
+      "date": "2026-11-10T19:30:00+00:00",
+      "id": "8ae28fdace437df30edb51baa4cad259b120b82c453228722edd6e7b8e8dbce1",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317272204/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Your Daily 30-Minute Claude Routine: Run Your Day Like an Executive [ONLINE]"
+    },
+    {
+      "date": "2026-11-12T19:00:00+00:00",
+      "id": "ae81f0da9a7333d09391aabc0c2f166d3175620e27118458a496bad8c967dee5",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317272226/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "No Developer Needed: Build Your Business Website with Claude [ONLINE]"
+    },
+    {
+      "date": "2026-11-17T01:00:00+00:00",
+      "id": "2ad0a58c4646fd45034c8e0b614c90f0574b515ae50e3340c57bef6d3a8cff24",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317211913/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "The Next Five Years of AI: What It Means for Daily Life"
+    },
+    {
+      "date": "2026-11-17T19:00:00+00:00",
+      "id": "62c3be87bb6d5aa32810794a90fef7e6082903d8cd479e4c34c0e6252933ff7b",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317273589/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Use Claude Every Day: Emails, Docs and Research in Minutes [ONLINE]"
+    },
+    {
+      "date": "2026-11-17T21:00:00+00:00",
+      "id": "7e9327a38752ff922e89c153fd4b7cef0e0291b479eec45ced4be3bf88ba747a",
+      "registration_url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Ask Aaron Anything! Your AI Questions Answered"
+    },
+    {
+      "date": "2026-11-18T01:00:00+00:00",
+      "id": "a66edb45483f62a0369bf346be3b86b25e575669f590e9f71d22d6f91d88784c",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317265694/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "26c5628189ce5a641187ad1dccb5f476a7d636f9d9c7fa0321f278e6211ea38f",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-phoenix/events/317266398/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "e63f1e344809a2d017f3e7a686b8440fe4b56dc1f7529a7bfc7902f504603f01",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317266359/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-19T19:30:00+00:00",
+      "id": "87c2680ecae240eacc22529d832ae3901a9433b708055246c2b92e96148491ab",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317273605/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "Stop Drowning in Admin: AI Tools That Give You Your Time Back [ONLINE]"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "73d429dd7dab4ad816488281bb23c46c888ed14b8c9e550d062e6b5a0213e596",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317266574/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "11b7c5657dacac3931789efaae05c5ffa40c00fded831df438c4acda5be70aa6",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-phoenix/events/317266598/",
+      "sent_at": "2026-11-04T17:19:52.775209+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
     }
   ]
 }
