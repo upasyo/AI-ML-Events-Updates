@@ -1487,6 +1487,30 @@
       "sent_at": "2026-11-04T17:19:52.775209+00:00",
       "source": "Meetup",
       "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-11-05T20:00:00+00:00",
+      "id": "1e244e398acff2b5c0453e2c87430f7e6a8c52a9f80397f71fc4c4a03219422e",
+      "registration_url": "https://www.meetup.com/shipai/events/317096102/",
+      "sent_at": "2026-11-05T17:27:57.054328+00:00",
+      "source": "Meetup",
+      "title": "Design Office Hours"
+    },
+    {
+      "date": "2026-11-30T19:00:00+00:00",
+      "id": "6200171b749805e03b30a52f458f926c99ebd5b6965cd17543d3adb8b8b87b9d",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317273668/",
+      "sent_at": "2026-11-05T17:27:57.054328+00:00",
+      "source": "Meetup",
+      "title": "Work Less, Get More Done: Plan Your Whole Week with Claude [ONLINE]"
+    },
+    {
+      "date": "2026-12-02T19:30:00+00:00",
+      "id": "c29fcf2d8415f07888b81bd22084c70ca3a0eccd142b3730aceeb2ea50676d8b",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317273688/",
+      "sent_at": "2026-11-05T17:27:57.054328+00:00",
+      "source": "Meetup",
+      "title": "AI Agents in Action: Watch Them Handle Everyday Business Work [ONLINE]"
     }
   ]
 }
