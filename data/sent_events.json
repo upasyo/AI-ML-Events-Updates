@@ -1511,6 +1511,62 @@
       "sent_at": "2026-11-05T17:27:57.054328+00:00",
       "source": "Meetup",
       "title": "AI Agents in Action: Watch Them Handle Everyday Business Work [ONLINE]"
+    },
+    {
+      "date": "2026-11-12T20:00:00+00:00",
+      "id": "41be2d26c11b7065bcd745e35ca21f12232ef16fa1446d85d61976ddc7e06fe6",
+      "registration_url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316571051/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "AI Professional Certification Summit!"
+    },
+    {
+      "date": "2026-11-17T01:00:00+00:00",
+      "id": "ba7dac34bb8e7a136aa788edb68241bbf87407147618f4633f4e60f1841cfcee",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-denver/events/317211933/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "The Next Five Years of AI: What It Means for Daily Life"
+    },
+    {
+      "date": "2026-11-18T01:00:00+00:00",
+      "id": "5c98664084d130dba0d8b8ba3ee9b01d9443b63dd34014385d79f4b04b1294da",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-denver/events/317265747/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "d4c9e4e39454377e6dd5823c01405f656463584f9e8f912105a3e3d060a73c85",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-denver/events/317266395/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-19T17:00:00+00:00",
+      "id": "072b542650db336928211122c0eb7e290b9fe0ce45396bc226e505821ac072e9",
+      "registration_url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316498274/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "AI UNLEASHED SUMMIT!"
+    },
+    {
+      "date": "2026-11-20T00:45:00+00:00",
+      "id": "8ad56a4a5ea2e9995ac999bcccb76b560b1adf42f4e97817ef7864cd5f939fcb",
+      "registration_url": "https://www.meetup.com/boulder-quality-meetup/events/315672407/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "Build the Same Report for Every Audience"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "ea1623144a87c4917271fee4facd8a449217c06e6a8c33ccf9721f6fb6c71fb7",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-denver/events/317266596/",
+      "sent_at": "2026-11-07T15:43:55.418771+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
     }
   ]
 }
