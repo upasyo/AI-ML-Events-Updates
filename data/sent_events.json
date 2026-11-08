@@ -1567,6 +1567,30 @@
       "sent_at": "2026-11-07T15:43:55.418771+00:00",
       "source": "Meetup",
       "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-11-17T01:00:00+00:00",
+      "id": "1a7c42320bfb0b4fdfa21d421eaf2636ccfcc1be965cb35ef9db92a95c97d49b",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/317212035/",
+      "sent_at": "2026-11-08T16:01:31.636570+00:00",
+      "source": "Meetup",
+      "title": "The Next Five Years of AI: What It Means for Daily Life"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "4f4aa16cb92e3080f10f59b8e3f36a69b3aa00da86bb81e45a185a5b63079901",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/317266505/",
+      "sent_at": "2026-11-08T16:01:31.636570+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "bdf34ccd66302ea893d16e62505cfa99ea5d880b4e350f4d13afe7d2d0f6ee10",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/317266679/",
+      "sent_at": "2026-11-08T16:01:31.636570+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
     }
   ]
 }
