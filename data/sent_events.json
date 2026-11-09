@@ -1591,6 +1591,22 @@
       "sent_at": "2026-11-08T16:01:31.636570+00:00",
       "source": "Meetup",
       "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-11-13T19:00:00+00:00",
+      "id": "e72ec8d426853a7f574f423e9286d0fae57c5524b0ab2a5fc8d93ae15dc875d0",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317272240/",
+      "sent_at": "2026-11-09T19:53:19.411328+00:00",
+      "source": "Meetup",
+      "title": "Hands-On Claude Workshop: Let Claude Read Your Inbox and Plan Your Day [ONLINE]"
+    },
+    {
+      "date": "2026-12-01T19:00:00+00:00",
+      "id": "d3d0e07f3398f48007347198033371094dc666ed92dcdea82cc17b6f6116cf3d",
+      "registration_url": "https://www.meetup.com/phoenix-ai-for-business-owners/events/317273683/",
+      "sent_at": "2026-11-09T19:53:19.411328+00:00",
+      "source": "Meetup",
+      "title": "Claude for First-Time Users: Build Your Founder Toolkit in an Hour [ONLINE]"
     }
   ]
 }
