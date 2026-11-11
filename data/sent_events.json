@@ -1607,6 +1607,38 @@
       "sent_at": "2026-11-09T19:53:19.411328+00:00",
       "source": "Meetup",
       "title": "Claude for First-Time Users: Build Your Founder Toolkit in an Hour [ONLINE]"
+    },
+    {
+      "date": "2026-11-17T01:00:00+00:00",
+      "id": "8b98f9ca558cdd731709ed766aea25e0dd88d04b36e3d3348d9afde808eefdf0",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/317212341/",
+      "sent_at": "2026-11-11T17:14:29.548032+00:00",
+      "source": "Meetup",
+      "title": "The Next Five Years of AI: What It Means for Daily Life"
+    },
+    {
+      "date": "2026-11-18T01:00:00+00:00",
+      "id": "5c9628527f3dbf728e664f31b49c7b0764c5c2a64cc29fff0bd6a524b4d2edaf",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/317265931/",
+      "sent_at": "2026-11-11T17:14:29.548032+00:00",
+      "source": "Meetup",
+      "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "349cea21472ddf5ffd1fe2a2840fe276d3926e15ccca047547b8a1cbe9b4610f",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/317266536/",
+      "sent_at": "2026-11-11T17:14:29.548032+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "c4b53f7d937698cc16a79a5ee5423802c702c648114a6f78209eed718f73442f",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/317266699/",
+      "sent_at": "2026-11-11T17:14:29.548032+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
     }
   ]
 }
