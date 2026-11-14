@@ -1639,6 +1639,46 @@
       "sent_at": "2026-11-11T17:14:29.548032+00:00",
       "source": "Meetup",
       "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-11-17T01:00:00+00:00",
+      "id": "8d988e9dfa9567b92c3d913119a66e1ccd63943c473d393a3eefa094242509f1",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317211883/",
+      "sent_at": "2026-11-14T15:51:55.273844+00:00",
+      "source": "Meetup",
+      "title": "The Next Five Years of AI: What It Means for Daily Life"
+    },
+    {
+      "date": "2026-11-18T01:00:00+00:00",
+      "id": "54bfd7880a741c37e90365f3ac13b761a419fc7d08a14c478757b968645fc82f",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317265658/",
+      "sent_at": "2026-11-14T15:51:55.273844+00:00",
+      "source": "Meetup",
+      "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "881ef22745cde7d0338967069704f05a77db7a01cb4b1b0dc9b168b55fac0578",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317266337/",
+      "sent_at": "2026-11-14T15:51:55.273844+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "8ad1331e6f4c49c51db5ddb508e69658ebb79d9e2e26483566271df070bcfd1d",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317266561/",
+      "sent_at": "2026-11-14T15:51:55.273844+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-11-30T19:00:00+00:00",
+      "id": "3f0548e853316e597aac634cf154c82c93d928c736fe0bbb6edf27ce78f8b8b4",
+      "registration_url": "https://www.meetup.com/vancouver-ai-startup-founders-society/events/317416985/",
+      "sent_at": "2026-11-14T15:51:55.273844+00:00",
+      "source": "Meetup",
+      "title": "Two Roads for Founders: The Startup Path vs the Small-Business Path [ONLINE]"
     }
   ]
 }
