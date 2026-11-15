@@ -1679,6 +1679,78 @@
       "sent_at": "2026-11-14T15:51:55.273844+00:00",
       "source": "Meetup",
       "title": "Two Roads for Founders: The Startup Path vs the Small-Business Path [ONLINE]"
+    },
+    {
+      "date": "2026-11-16T20:00:00+00:00",
+      "id": "a61fd901476090102f595f6452856ebc1efa9430caa92b10d823caa1c47f3de1",
+      "registration_url": "https://www.meetup.com/washington-howe-about-that-business-learning-lifestyle/events/317267730/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "Exploring AI-Powered Services: Opportunities for an Online Business"
+    },
+    {
+      "date": "2026-11-17T01:00:00+00:00",
+      "id": "f879989b8aab6d21501320c722eefe2f1f5ba2979b736d2fd845f877e6b00516",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-d-c/events/317212015/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "The Next Five Years of AI: What It Means for Daily Life"
+    },
+    {
+      "date": "2026-11-17T17:00:00+00:00",
+      "id": "3b3796d85ec2a16d55a7cb81900c8b8b28dfc4be42b827e571fc80d995209703",
+      "registration_url": "https://www.meetup.com/d-c-data-science-odsc/events/317074279/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "Building AI Memory: From a Local Robot to a 1,000-Fly Hive Mind"
+    },
+    {
+      "date": "2026-11-18T01:00:00+00:00",
+      "id": "95c744b2eab71ee9af799bf41ab40dc94dea762a48cec6ff157f97f67ff94878",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-d-c/events/317265841/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
+    },
+    {
+      "date": "2026-11-19T01:00:00+00:00",
+      "id": "785347b6bcfb2ac23a351a7bded79ece2429742c30acbafa14c7c1733ddf02b8",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-d-c/events/317266487/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro"
+    },
+    {
+      "date": "2026-11-19T10:00:00+00:00",
+      "id": "6015129c947379ce11a1385f324c84e3c2d43131a7d1ad279eaaa7dc56e0a1e6",
+      "registration_url": "https://www.meetup.com/philadelphia-online-business-personal-growth-community/events/317398274/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "The AI Service Business Opportunity: Where to Start \ud83d\ude80"
+    },
+    {
+      "date": "2026-11-19T17:00:00+00:00",
+      "id": "1a80ff9c64448c880f61e29972326b6eca20c5aeb61143c03a623d077a38f16a",
+      "registration_url": "https://www.meetup.com/the-ai-briefing-room/events/317273596/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "Lifestyle Business or Venture Startup? Choose Your Path with Confidence [ONLINE]"
+    },
+    {
+      "date": "2026-11-20T01:00:00+00:00",
+      "id": "3492ae40c2bacbd46c8b4688313c4bd5f88f0a3c9bfdc4ef20562bbad203fa0a",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-d-c/events/317266666/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities"
+    },
+    {
+      "date": "2026-12-01T17:00:00+00:00",
+      "id": "6b5eaa8a096dd0c4b7430c55a271d91fa0ac3ef08127f9866e94011e2b585817",
+      "registration_url": "https://www.meetup.com/the-ai-briefing-room/events/317273680/",
+      "sent_at": "2026-11-15T16:25:57.544020+00:00",
+      "source": "Meetup",
+      "title": "Give Claude Your Playbook: An AI Assistant Trained on Your Business [ONLINE]"
     }
   ]
 }
