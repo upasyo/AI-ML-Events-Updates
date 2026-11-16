@@ -1751,6 +1751,14 @@
       "sent_at": "2026-11-15T16:25:57.544020+00:00",
       "source": "Meetup",
       "title": "Give Claude Your Playbook: An AI Assistant Trained on Your Business [ONLINE]"
+    },
+    {
+      "date": "2026-11-18T01:00:00+00:00",
+      "id": "439d8fea6e098b8d45e97343955614857e819356443ce2143d41fb04eefe3bbf",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/317265869/",
+      "sent_at": "2026-11-16T19:40:36.239904+00:00",
+      "source": "Meetup",
+      "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
     }
   ]
 }
