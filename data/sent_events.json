@@ -1759,6 +1759,14 @@
       "sent_at": "2026-11-16T19:40:36.239904+00:00",
       "source": "Meetup",
       "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?"
+    },
+    {
+      "date": "2026-11-29T11:00:00+00:00",
+      "id": "2d3561c929e1c41ab77ef187dce6fc6dd831d7e9b34333b6095ee549ea84b1a6",
+      "registration_url": "https://www.meetup.com/aumos-seattle-ai-builders-open-source/events/317480883/",
+      "sent_at": "2026-11-18T18:09:39.088513+00:00",
+      "source": "Meetup",
+      "title": "From your current skills to a practical AI workflow"
     }
   ]
 }
