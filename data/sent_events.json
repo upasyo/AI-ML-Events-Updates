@@ -1767,6 +1767,22 @@
       "sent_at": "2026-11-18T18:09:39.088513+00:00",
       "source": "Meetup",
       "title": "From your current skills to a practical AI workflow"
+    },
+    {
+      "date": "2026-11-29T17:00:00+00:00",
+      "id": "c63f4325d7a2ae5cba4fae57ed0e1639c9148dde883abc4825e0cc9235972deb",
+      "registration_url": "https://www.meetup.com/aumos-washington-dc-ai-builders-open-source/events/317480879/",
+      "sent_at": "2026-11-19T18:21:57.262578+00:00",
+      "source": "Meetup",
+      "title": "From your current skills to a practical AI workflow"
+    },
+    {
+      "date": "2026-12-01T01:00:00+00:00",
+      "id": "05cf5a2677f8f9c3029486ba526d0667394df5ff47579ba582daf0b75156fd1c",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/317499610/",
+      "sent_at": "2026-11-19T18:21:57.262578+00:00",
+      "source": "Meetup",
+      "title": "AI Governance Overview: What\u2019s Happening in International AI Competition?"
     }
   ]
 }
