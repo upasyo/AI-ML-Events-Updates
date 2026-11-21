@@ -1783,6 +1783,70 @@
       "sent_at": "2026-11-19T18:21:57.262578+00:00",
       "source": "Meetup",
       "title": "AI Governance Overview: What\u2019s Happening in International AI Competition?"
+    },
+    {
+      "date": "2026-11-23T20:00:00+00:00",
+      "id": "7069b98651f83fc9db970441d8d22471622920f36b1475257dcf9cfdf288b6c6",
+      "registration_url": "https://www.meetup.com/atlanta-top-notch-transformation/events/317475070/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "Stop Doing It All Yourself: Let AI Handle the Business Grind (Free Webinar)"
+    },
+    {
+      "date": "2026-11-24T17:00:00+00:00",
+      "id": "3386a5e5e6bd0aa9da6c08dc20f55bab9487024f071f8403e4ff302f7b9d9cf7",
+      "registration_url": "https://www.meetup.com/atlanta-vibe-business-owners-marketers/events/317273639/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "Get Your Afternoons Back: A Claude Playbook for Busy Owners [ONLINE]"
+    },
+    {
+      "date": "2026-11-26T17:00:00+00:00",
+      "id": "23592fbdfba4446eaf03af5204f020fdd1a63b490440770a140dc98f0224e581",
+      "registration_url": "https://www.meetup.com/joingps/events/317315379/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "Q&AI Weekly \u2014 Build Real AI Skills (Live with Bobby V.)"
+    },
+    {
+      "date": "2026-11-30T19:00:00+00:00",
+      "id": "f6ac7f405e673122f22e83a8d3d107148fc31f34fbc0bd509849540b32479b85",
+      "registration_url": "https://www.meetup.com/atlanta-top-notch-transformation/events/317475092/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "Stop Second-Guessing Yourself: Build Confidence That Sticks (Free Webinar)"
+    },
+    {
+      "date": "2026-12-01T01:00:00+00:00",
+      "id": "902ff94a3aef43e6b54afb2a58abc5d7780b1636ce26a9e721e25b41730eb448",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-atlanta/events/317499241/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "AI Governance Overview: What\u2019s Happening in International AI Competition?"
+    },
+    {
+      "date": "2026-12-02T00:00:00+00:00",
+      "id": "508a2d0798c5e5bb25efa7559eb4dc0278f3446cc113f29862035e16e3e39434",
+      "registration_url": "https://www.meetup.com/ai-growth-circle/events/317016384/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "AI COMMUNITY NIGHT - Tuesdays @7pm (FREE|Remote) - a group-led event"
+    },
+    {
+      "date": "2026-12-02T01:00:00+00:00",
+      "id": "cdd4f708b4ec1b3c53ee3cc9ef5cb5192737b058ebdbfae1619abad8f7ce4319",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-kennesaw/events/317501781/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "What AI Can Do With Your Data: Privacy & Surveillance"
+    },
+    {
+      "date": "2026-12-03T01:00:00+00:00",
+      "id": "6b4eaa12d21eef742a490157c42ac6b3266d94db6638f5bb179be35dd9fc6924",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-kennesaw/events/317505092/",
+      "sent_at": "2026-11-21T16:50:11.971745+00:00",
+      "source": "Meetup",
+      "title": "Who Gets a Say in AI? Mapping the Power and Your Place in It"
     }
   ]
 }
