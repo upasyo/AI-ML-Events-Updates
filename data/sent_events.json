@@ -1847,6 +1847,78 @@
       "sent_at": "2026-11-21T16:50:11.971745+00:00",
       "source": "Meetup",
       "title": "Who Gets a Say in AI? Mapping the Power and Your Place in It"
+    },
+    {
+      "date": "2026-11-26T02:00:00+00:00",
+      "id": "01888b7e588716f6340bb6ee0a5dfee65a3f51cd2adbd662a7c4230ad3e4ca66",
+      "registration_url": "https://www.meetup.com/meetup-group-philosophy101/events/317494987/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "The Science of Consciousness"
+    },
+    {
+      "date": "2026-11-26T17:00:00+00:00",
+      "id": "6f7c92fe05f6f3cbb3d1bc5f3792863cf98eaaff60ef0fc3c24332c516f5fee0",
+      "registration_url": "https://www.meetup.com/portland-idea-to-ipo/events/317315443/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "AI Professional Certification Summit!"
+    },
+    {
+      "date": "2026-11-28T19:00:00+00:00",
+      "id": "a07b25232694bd97a832828a53d365d757c48403d62ef7c5bd26055159bbb435",
+      "registration_url": "https://www.meetup.com/meetup-group-philosophy101/events/317531351/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "Consciousness and Artificial Intelligence: Fundamental Philosophical Questions"
+    },
+    {
+      "date": "2026-11-28T19:00:00+00:00",
+      "id": "e600e46216e018c38f5738c72f3f2857633620bd7359fb2232f050c144e7aa9c",
+      "registration_url": "https://www.meetup.com/meetup-group-philosophy101/events/317531612/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "Consciousness and Artificial Intelligence: Fundamental Philosophical Questions"
+    },
+    {
+      "date": "2026-11-28T21:30:00+00:00",
+      "id": "80463c7c040940e8556c297ca23f09528135ebc2031cd835ef429b8fc52966b9",
+      "registration_url": "https://www.meetup.com/meetup-group-philosophy101/events/317528868/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "SDIS: Sounding Out Meaning: Giving AI an Ear for Language"
+    },
+    {
+      "date": "2026-12-01T01:00:00+00:00",
+      "id": "d26ecafceee48a984b36be8f31f1ec9e9d2a2f5f1bf2e92db7a3fd3a3b4527a8",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-portland/events/317499349/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "AI Governance Overview: What\u2019s Happening in International AI Competition?"
+    },
+    {
+      "date": "2026-12-02T01:00:00+00:00",
+      "id": "5fceb0bec84c53db1953c4f7a9ce49eb0adce1e59cbf94ca49a9bf5ee39d83c2",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-portland/events/317501701/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "What AI Can Do With Your Data: Privacy & Surveillance"
+    },
+    {
+      "date": "2026-12-03T01:00:00+00:00",
+      "id": "1522db2187ee325776d9bd45377f353f2d5c5031eff384a4b0efa68cdd7d1e3b",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-portland/events/317505007/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "Who Gets a Say in AI? Mapping the Power and Your Place in It"
+    },
+    {
+      "date": "2026-12-06T22:00:00+00:00",
+      "id": "3aeb4b9db7165ddb6499334dfbe53ed796734576bbc99221a914c455f726de1e",
+      "registration_url": "https://www.meetup.com/meetup-group-philosophy101/events/317531645/",
+      "sent_at": "2026-11-22T17:13:07.246901+00:00",
+      "source": "Meetup",
+      "title": "Discussion Forum: How Should we Regulate AI?"
     }
   ]
 }
