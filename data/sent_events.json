@@ -1927,6 +1927,22 @@
       "sent_at": "2026-11-23T21:30:33.092022+00:00",
       "source": "Meetup",
       "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-12-02T01:00:00+00:00",
+      "id": "7f46f24cfff99461d076adbdf483c38dfddd28a9ea6d6faa4265f918d905f39d",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-raleigh/events/317501865/",
+      "sent_at": "2026-11-25T19:23:58.912287+00:00",
+      "source": "Meetup",
+      "title": "What AI Can Do With Your Data: Privacy & Surveillance"
+    },
+    {
+      "date": "2026-12-09T22:00:00+00:00",
+      "id": "cf931165d91971d9d8757b3aa140018e2320a9d77a5a68eb14e1657b647a605a",
+      "registration_url": "https://www.meetup.com/ac-rdu/events/317505304/",
+      "sent_at": "2026-11-25T19:23:58.912287+00:00",
+      "source": "Meetup",
+      "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
     }
   ]
 }
