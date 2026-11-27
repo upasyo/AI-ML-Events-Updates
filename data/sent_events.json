@@ -1943,6 +1943,62 @@
       "sent_at": "2026-11-25T19:23:58.912287+00:00",
       "source": "Meetup",
       "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility"
+    },
+    {
+      "date": "2026-12-01T01:00:00+00:00",
+      "id": "0a8c10a08b926f3df02beaad01a1cee8b22a6cdad4fbdc01258b026e7e55baf9",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-phoenix/events/317499475/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "AI Governance Overview: What\u2019s Happening in International AI Competition?"
+    },
+    {
+      "date": "2026-12-01T01:00:00+00:00",
+      "id": "7f045b5ae3307c37c20f4a03e450dbc224a0b66397d849eae6ec8101fc68b73f",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317499331/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "AI Governance Overview: What\u2019s Happening in International AI Competition?"
+    },
+    {
+      "date": "2026-12-01T17:00:00+00:00",
+      "id": "1dcd31f2918795fd30b88c1a131ad8d26d0ed545bf0dfbfcd35da48de1a98bae",
+      "registration_url": "https://www.meetup.com/ac-phx/events/317606504/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "AI for Marketers - Put AI to Work in Your Everyday Marketing"
+    },
+    {
+      "date": "2026-12-02T01:00:00+00:00",
+      "id": "7e93ed3845998fcb5909dfcaafae51b702be53207309fa4e5a714b7ff5d078c9",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317501699/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "What AI Can Do With Your Data: Privacy & Surveillance"
+    },
+    {
+      "date": "2026-12-02T19:00:00+00:00",
+      "id": "756b56d39f804b5c68a575d87363527df6d211742726d9db24380084e4f1face",
+      "registration_url": "https://www.meetup.com/data-science-dojo-phoenix/events/317504580/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "Build Self-Improving AI Agents: Turn Failing Traces Into Higher pass@k"
+    },
+    {
+      "date": "2026-12-03T01:00:00+00:00",
+      "id": "9e86cb31e85054ad567d785651dd80d05bc975db3e1b8724b15c8191725df197",
+      "registration_url": "https://www.meetup.com/ai-safety-awareness-group-mesa/events/317505004/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "Who Gets a Say in AI? Mapping the Power and Your Place in It"
+    },
+    {
+      "date": "2026-12-03T20:00:00+00:00",
+      "id": "191a52038db3ee2e7aff9467e1ce05c93c242eae01d3a9849c858d2bd2ebce16",
+      "registration_url": "https://www.meetup.com/shipai/events/317461959/",
+      "sent_at": "2026-11-27T19:02:46.158101+00:00",
+      "source": "Meetup",
+      "title": "Design Office Hours"
     }
   ]
 }
